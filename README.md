@@ -21,8 +21,8 @@
 
 ## INSTALL
 
-<pre><code>git clone https://github.com/Markojudas/java-terminal-chatroom.git
-cd java-terminal-chatroom/src
+<pre><code>git clone https://github.com/Markojudas/java-chatserver.git
+cd java-chatserver/src
 javac ChatServer.java</code></pre>
 <br>
 
@@ -45,6 +45,10 @@ telnet localhost 8888
 <img src="./img/connected.png">
 <p>Note: I'd recommend running this application on a virtual machine or in a cloud instance (AWS/GCP/Linode) with a public IP, as long as you open port <code>8888</code>.</p>
 <p> If so, run you can connect using your <code>public IP</code> instead of <code>localhost</code>.</p>
+
+```bash
+tel
+
 <h5>Disclaimer: This application did not implement any kind of security measures. use at own risk</h5>
 <br>
 
@@ -55,3 +59,10 @@ telnet localhost 8888
 
 <p>Here is a little example - Yes, I am playing the role of all 3 users</p>
 <img src="./img/test.png">
+
+## TODO:
+
+<ul>
+    <li>Update README for Windows.</li>
+</ul>
+```
