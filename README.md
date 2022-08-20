@@ -47,7 +47,8 @@ telnet localhost 8888
 <p> If so, run you can connect using your <code>public IP</code> instead of <code>localhost</code>.</p>
 
 ```bash
-tel
+telnet <public-ip> 8888
+```
 
 <h5>Disclaimer: This application did not implement any kind of security measures. use at own risk</h5>
 <br>
