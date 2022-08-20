@@ -10,7 +10,7 @@
 ## REQUIREMENTS
 
 <ul>
-    <li><a ref="https://www.oracle.com/java/technologies/downloads/">Java Development Kit</a></li>
+    <li><a href="https://www.oracle.com/java/technologies/downloads/">Java Development Kit</a></li>
 </ul>
 
 <p>To check if you have required tools run the following commands on your terminal:</p>
@@ -21,14 +21,14 @@
 
 ## INSTALL
 
-<pre><code>git clone https://github.com/Markojudas/java-terminal-chatroom.git</code></pre>
+<pre><code>git clone https://github.com/Markojudas/java-terminal-chatroom.git
+cd java-terminal-chatroom/src
+javac ChatServer.java</code></pre>
 <br>
 
 ## RUN
 
-<pre><code>cd java-terminal-chatroom/src
-javac ChatServer.java
-java ChatServer</code></pre>
+<pre><code>java ChatServer</code></pre>
 <img src="./img/running.png">
 <br>
 <br>
