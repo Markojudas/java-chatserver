@@ -66,4 +66,3 @@ telnet <public-ip> 8888
 <ul>
     <li>Update README for Windows.</li>
 </ul>
-```
