@@ -2,7 +2,7 @@
 
 # CHAT SERVER
 
-<h3>A very simple Java application that runs on any terminal.</h3>
+<h3>A very simple Java multithreaded application that runs on any terminal.</h3>
 <br>
 <p align="center"><img src="./img/firstscree.png"></p>
 <br>
