@@ -60,9 +60,3 @@ telnet <public-ip> 8888
 
 <p>Here is a little example - Yes, I am playing the role of all 3 users</p>
 <img src="./img/test.png">
-
-## TODO:
-
-<ul>
-    <li>Update README for Windows.</li>
-</ul>
